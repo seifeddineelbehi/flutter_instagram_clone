@@ -1,6 +1,6 @@
-# instagram_responsive_ui
+# Instagram_Clone
 
-A new Flutter project.
+My take on making a clone of Instagram using Flutter
 
 ## Getting Started
 
